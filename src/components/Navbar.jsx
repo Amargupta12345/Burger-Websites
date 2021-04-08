@@ -16,7 +16,7 @@ function Navbar() {
   window.addEventListener("scroll", changeBackground);
 
   return (
-    <nav className={nav ? "nav active" : "nav"}>
+    <nav className={nav ? "nav.active" : "nav"}>
       <Link to="main" className="logo" smooth={true} duration={2000}>
         <img src={logo} alt="loading" />
       </Link>
