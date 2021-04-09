@@ -473,7 +473,8 @@ nav .menu-btn,
     font-size: 1.5rem;
   }
   .header-heading h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    /* margin-right: 400px; */
   }
   .header-heading .details {
     font-size: 1rem;
